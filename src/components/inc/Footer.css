@@ -2,11 +2,11 @@
 
     text-decoration: none;
     
-    
-
 }
 .di{
     margin: 5px;
-    
+}
 
+.Footer{
+    border-top: 5px solid blue;
 }

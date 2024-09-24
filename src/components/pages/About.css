@@ -1,0 +1,35 @@
+.para{
+    font-size: 20px;
+    font-family:   serif;
+    line-height: 2;
+    padding: 20px;
+    text-align: right;
+    border-top: 4px solid #0d6efd;
+    border-bottom: 4px solid #0d6efd;
+    border-radius: 30px;
+    /* background-color: rgba(255,255 , 255,0.06); */
+    height: 420px;
+    
+}
+
+
+.div-img{
+    height: 420px;
+    width: 420px;
+    border-top: 4px solid #0d6efd;
+    border-bottom: 4px solid #0d6efd;
+    
+    border-radius: 30px;
+    
+    
+}
+
+.counts i{ 
+    font-size: 42px;
+    margin-left: 8px;
+    
+}
+
+.counts i.blue{
+    color: #4154f1;
+}

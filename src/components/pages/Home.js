@@ -3,6 +3,7 @@ import './Home.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Slider from "../inc/slider";
 import { Link } from "react-router-dom";
+import Footer from "../inc/Footer";
 import VM from "../inc/VM";
 
 
@@ -30,7 +31,7 @@ import VM from "../inc/VM";
 
          {/* Footer  */}
 
-         
+         <Footer />
 
    </div>
     )
